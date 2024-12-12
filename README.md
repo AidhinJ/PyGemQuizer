@@ -25,7 +25,8 @@ Usage
     Run the Script: Execute the script in IDLE or any other IDE.
 
 Note: This script uses a placeholder for uploading files to GenAI (currently not supported).
-Example Run
+
+Example Run:
 
 This script starts by prompting you for a quiz topic. It then generates questions and provides immediate feedback on your answers. Here's an example:
 
