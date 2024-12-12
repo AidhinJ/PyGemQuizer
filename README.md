@@ -22,7 +22,7 @@ Installation
 Usage
 
     Replace KEY: Update the KEY variable in the script with your GenAI API key.
-    Run the Script: Execute the script using python3 pygemquizer.py
+    Run the Script: Execute the script in IDLE or any other IDE.
 
 Note: This script uses a placeholder for uploading files to GenAI (currently not supported).
 Example Run
